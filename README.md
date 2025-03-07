@@ -28,7 +28,7 @@ se pintará una letra **A**.
 
 ## ¿Cómo puedes transmitir datos?
 
-Puedes transmitir datos en foramto de texto y en hexadecimal. Si seleccionas el formato Texto, todos los caracteres que escribas se convertirán 
+Puedes transmitir datos en formato de texto y en hexadecimal. Si seleccionas el formato Texto, todos los caracteres que escribas se convertirán 
 a los bytes correspondientes según [esta tabla](https://www.asciitable.com/) y se transmitirán por el puerto serial. Ten en cuenta que al añadir 
 **\r** y/o **\n** podrás transmitir los bytes **0D** (**\r**) y/o **0A** (**\n**) junto con el texto que escribas. Estos caracteres son importantes 
 para marcar el fin de la cadena de texto.
